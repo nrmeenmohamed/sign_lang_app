@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613448047581",
+    "project_id": "signlearnapp-af468",
+    "storage_bucket": "signlearnapp-af468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613448047581:android:ea5beff57d726317843434",
+        "android_client_info": {
+          "package_name": "com.example.sign_lang_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLzuYKPO-U7sIVwpKvcKTtpNq6yYwACqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
